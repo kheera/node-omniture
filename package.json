@@ -1,0 +1,33 @@
+{
+  "name": "omniture",
+  "description": "Omniture API module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YourDeveloperFriend/node-omniture.git"
+  },
+  "version": "0.3.6",
+  "author": {
+    "name": "Nathan Tate",
+    "email": "yourdeveloperfriend@gmail.com",
+    "url": "http://github.com/YourDeveloperFriend"
+  },
+  "main": "./index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "keywords": [
+    "omniture",
+    "site catalyst",
+    "test and target"
+  ],
+  "dependencies": {
+		"nodeunit": "latest",
+		"underscore" : "latest",
+		"xml2json" : "latest"
+	},
+  "bundledDependencies": [
+    "nodeunit",
+    "underscore",
+    "xml2json"
+  ]
+}
