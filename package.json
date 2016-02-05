@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/YourDeveloperFriend/node-omniture.git"
   },
-  "version": "0.3.11",
+  "version": "0.4.0",
   "author": {
     "name": "Nathan Tate",
     "email": "yourdeveloperfriend@gmail.com",
@@ -21,10 +21,10 @@
     "test and target"
   ],
   "dependencies": {
-		"nodeunit": "latest",
-		"underscore" : "latest",
-		"xml2json" : "latest"
-	},
+    "nodeunit": "latest",
+    "underscore": "latest",
+    "xml2json": "latest"
+  },
   "bundledDependencies": [
     "nodeunit",
     "underscore",
