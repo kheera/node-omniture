@@ -1,15 +1,15 @@
 {
-  "name": "omniture",
-  "description": "Omniture API module",
+  "name": "omniture14",
+  "description": "Omniture14 API module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YourDeveloperFriend/node-omniture.git"
+    "url": "https://github.com/clintfenton/node-omniture.git"
   },
   "version": "0.4.1",
   "author": {
-    "name": "Nathan Tate",
-    "email": "yourdeveloperfriend@gmail.com",
-    "url": "http://github.com/YourDeveloperFriend"
+    "name": "WZ Creative",
+    "email": "npm@wzcreative.com",
+    "url": "https://github.com/clintfenton"
   },
   "main": "./index",
   "directories": {
